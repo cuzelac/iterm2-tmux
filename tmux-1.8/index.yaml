@@ -1,0 +1,5 @@
+default:
+  name: tmux18
+  summary: "tmux 1.8"
+  version: '1.8'
+  requires:

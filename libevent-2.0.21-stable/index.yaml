@@ -1,0 +1,5 @@
+default:
+  name: libevent2
+  summary: "libevent 2xx"
+  version: '2.0.21'
+  requires:
