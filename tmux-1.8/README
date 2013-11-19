@@ -3,4 +3,4 @@
 wget http://sourceforge.net/projects/tmux/files/tmux/tmux-1.8/tmux-1.8.tar.gz/download?use_mirror=superb-dca2
 tar xvfz tmux-1.8.tar.gz
 mv tmux-1.8 source
-multipkg -v .
+multipkg -t -v .
